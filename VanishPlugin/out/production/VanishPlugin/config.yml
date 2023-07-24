@@ -1,0 +1,14 @@
+#***********************************************
+#* Author:Samidh                               *
+#* GitHub: ItzTornafale                        *
+#***********************************************
+
+#To get msg with colors : https://minecraft.tools/fr/color-code.php
+#Please use '&' instead of '§'
+#    "&eHello !" instead of "§eHello !"
+
+Messages:
+  #This is the message that will be send when player will make him vanish
+  onvanishenablemsg: "&aYou have been succesfully vanished !"
+  #This is the message that will be send when player will make him visible
+  onvanishdisablemsg: "&aYou are now visible to all players on the server !"
